@@ -1,0 +1,3 @@
+/home/kyle/cpp_workspace/kyle_ecc_project/build/CMakeFiles/my_ecc_app.dir
+/home/kyle/cpp_workspace/kyle_ecc_project/build/CMakeFiles/edit_cache.dir
+/home/kyle/cpp_workspace/kyle_ecc_project/build/CMakeFiles/rebuild_cache.dir
